@@ -1,0 +1,40 @@
+
+
+.segment {
+    
+    width: 40px;
+    height: 40px;
+    background-color: rgb(124, 124, 151);
+      
+}
+
+.newLine {
+    
+ display:flex
+}
+
+.adding {
+  
+   height: 20px;
+    width: 20px;
+     margin: 0.5px;
+    background-color: rgb(112, 119, 112);
+    display: float;
+    float:left
+}
+
+.break {
+    height: 1px;
+    background-color: lawngreen;
+    display:block
+}
+/*
+.adding:hover {
+
+    height: 20px;
+    width: 20px;
+     margin: 0.5px;
+    background-color: rgb(240, 64, 196);
+    display: float;
+    float:left
+}
